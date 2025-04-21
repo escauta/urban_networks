@@ -1,9 +1,9 @@
 # urban_networks
 Lichinga Urban Network Analysis
 
-# 🛣️ Análise da Rede Rodoviária da Cidade de Lichinga - Moçambique
+# 🛣️ Análise da Rede Rodoviária da Cidade de Lichinga e Maputo - Moçambique
 
-Este repositório apresenta uma análise visual e exploratória da **rede rodoviária da cidade de Lichinga**, capital da província do **Niassa**, em Moçambique. A análise foi feita com base em dados abertos do **OpenStreetMap**, utilizando bibliotecas de geoprocessamento em Python, como **OSMnx**, **GeoPandas** e **Matplotlib**.
+Este repositório apresenta uma análise visual e exploratória da **rede rodoviária da cidade de Lichinga **, capital da província do **Niassa**, em Moçambique. A análise foi feita com base em dados abertos do **OpenStreetMap**, utilizando bibliotecas de geoprocessamento em Python, como **OSMnx**, **GeoPandas** e **Matplotlib**.
 
 ---
 
